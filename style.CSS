@@ -1,0 +1,25 @@
+.yesyesyes{
+    font-size: 15px;
+    color: rgb(0, 145, 255);
+}
+.poop{
+    font-size: 20px;
+    width: 100%;
+    box-shadow: 5px 5px 5px greenyellow;
+    margin: 0;
+}
+footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: grey;
+    width:100%;
+    font-size: 20px;
+}
+canvas{
+    border-radius: 50px;
+    border-color: red;
+    border-width: 10px;
+    box-shadow: 5px 5px 5px greenyellow;
+    border-style: solid;
+}
